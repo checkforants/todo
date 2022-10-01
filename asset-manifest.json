@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/npm%20installo/static/css/main.4dd8c976.css",
-    "main.js": "/npm%20installo/static/js/main.74276286.js",
-    "static/media/icon.png": "/npm%20installo/static/media/icon.cd75da25009bcf6f9f80.png",
-    "static/media/bg-desktop-light.jpg": "/npm%20installo/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
-    "static/media/bg-desktop-dark.jpg": "/npm%20installo/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
-    "index.html": "/npm%20installo/index.html",
-    "main.4dd8c976.css.map": "/npm%20installo/static/css/main.4dd8c976.css.map",
-    "main.74276286.js.map": "/npm%20installo/static/js/main.74276286.js.map"
+    "main.css": "/todo/static/css/main.eda1afb1.css",
+    "main.js": "/todo/static/js/main.fce09c22.js",
+    "static/media/icon.png": "/todo/static/media/icon.cd75da25009bcf6f9f80.png",
+    "static/media/bg-desktop-light.jpg": "/todo/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
+    "static/media/bg-desktop-dark.jpg": "/todo/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
+    "index.html": "/todo/index.html",
+    "main.eda1afb1.css.map": "/todo/static/css/main.eda1afb1.css.map",
+    "main.fce09c22.js.map": "/todo/static/js/main.fce09c22.js.map"
   },
   "entrypoints": [
-    "static/css/main.4dd8c976.css",
-    "static/js/main.74276286.js"
+    "static/css/main.eda1afb1.css",
+    "static/js/main.fce09c22.js"
   ]
 }
